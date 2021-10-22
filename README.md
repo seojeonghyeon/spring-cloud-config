@@ -1,3 +1,3 @@
 # spring-cloud-config
 spring-cloud-config
-for Study config
+MSA 공부 -> 인프런 스프링 MSA 강의
